@@ -1,7 +1,7 @@
 {
   "name": "jammin",
   "version": "0.1.0",
-  "homepage": "https://kiddulu916.github.io/Jammin/",
+  "homepage": "https://jammin-playlist-editor.netlify.app/",
   "private": true,
   "type": "module",
   "dependencies": {

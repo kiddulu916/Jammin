@@ -1,6 +1,6 @@
 let accessToken = "";
 const clientID = "637204625e214cd6b4af3886a8a8dc24";
-const redirectUrl = "https://kiddulu916.github.io/Jammin/";
+const redirectUrl = "https://jammin-playlist-editor.netlify.app/";
 
 export const Spotify = {
   getAccessToken() {
