@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Jammin/static/css/main.b046888a.css",
-    "main.js": "/Jammin/static/js/main.b0b78d18.js",
-    "static/js/488.9b025f4a.chunk.js": "/Jammin/static/js/488.9b025f4a.chunk.js",
-    "static/media/background.jpg": "/Jammin/static/media/background.a0687f3fe6f1303a2d18.jpg",
-    "index.html": "/Jammin/index.html",
-    "main.b046888a.css.map": "/Jammin/static/css/main.b046888a.css.map",
-    "main.b0b78d18.js.map": "/Jammin/static/js/main.b0b78d18.js.map",
-    "488.9b025f4a.chunk.js.map": "/Jammin/static/js/488.9b025f4a.chunk.js.map"
+    "main.css": "/static/css/main.6eef3341.css",
+    "main.js": "/static/js/main.c89555d5.js",
+    "static/js/488.9b025f4a.chunk.js": "/static/js/488.9b025f4a.chunk.js",
+    "static/media/background.jpg": "/static/media/background.a0687f3fe6f1303a2d18.jpg",
+    "index.html": "/index.html",
+    "main.6eef3341.css.map": "/static/css/main.6eef3341.css.map",
+    "main.c89555d5.js.map": "/static/js/main.c89555d5.js.map",
+    "488.9b025f4a.chunk.js.map": "/static/js/488.9b025f4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b046888a.css",
-    "static/js/main.b0b78d18.js"
+    "static/css/main.6eef3341.css",
+    "static/js/main.c89555d5.js"
   ]
 }
